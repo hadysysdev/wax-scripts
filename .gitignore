@@ -1,0 +1,4 @@
+wax-env
+.vscode
+.env
+__pycache__
