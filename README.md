@@ -38,5 +38,5 @@
 > - Template_Id=773378
 > 
 > And then running the following command
-> - ```py mint.py``` on windows and 
-> - ```python3 mint.py``` on linux
+> - ```py mint.py``` On Windows
+> - ```python3 mint.py``` On Unix or MacOS
