@@ -1,5 +1,5 @@
 
-## Open the folder where this script and the required.tx file is located
+## Open the folder where this script and the requirements.txt file is located
 
 ## Start by creating an enviroment with the following command
 - ```python -m venv wax-env``` On Windows
